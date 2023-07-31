@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/StocksStyleSheet.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+          integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <div class="container">
+        <div class="page-content">
+            <div class="flex" style="justify-content: space-between">
+                <div>
+                    <h1><i class="fa-solid fa-money-bill-trend-up ml"></i>Stocks</h1>
+                </div>
+                <div>
+                    <input type="search" style="width:60%; text-align:left" class="form-input" placeholder="Search Stocks" name="stockSymbolSearch"
+                           value="@ViewBag.CurrentStockSymbolSearch" />
+                    <i class="fa fa-cog fa-lg ml" aria-hidden="true"></i>
+                    <button class="button button-blue-back ml">Login</button>
+                </div>
+            </div>
+
+            <div class="navbar mb">
+                <ul>
+                    @if (ViewBag.CurrentUrl == "~/stocks/explore")
+                    {
+                        <li><a asp-controller="Stocks" asp-action="Explore" class="nav-active">Explore</a></li>
+                    }
+                    else
+                    {
+                        <li><a asp-controller="Stocks" asp-action="Explore">Explore</a></li>
+                    }
+                    @if (ViewBag.CurrentUrl == "~/trade/index")
+                    {
+                        <li><a asp-controller="Trade" asp-action="Index" class="nav-active">Trade</a></li>
+                    }
+                    else
+                    {
+                        <li><a asp-controller="Trade" asp-action="Index">Trade</a></li>
+                    }
+
+                    @if (ViewBag.CurrentUrl == "~/trade/orders")
+                    {
+                        <li><a asp-controller="Trade" asp-action="Orders" class="nav-active">Orders</a></li>
+                    }
+                    else
+                    {
+                        <li><a asp-controller="Trade" asp-action="Orders">Orders</a></li>
+                    }
+                </ul>
+            </div>
+            @RenderBody()
+        </div>
+    </div>
+</body>
+</html>

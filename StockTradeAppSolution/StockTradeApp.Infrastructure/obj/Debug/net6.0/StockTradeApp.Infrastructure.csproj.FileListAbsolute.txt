@@ -1,0 +1,15 @@
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\StockTradeApp.Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\StockTradeApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\StockTradeApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\StockTradeApp.Infrastructure.AssemblyInfo.cs
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\StockTradeApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\bin\Debug\net6.0\StockTradeApp.Infrastructure.deps.json
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\bin\Debug\net6.0\StockTradeApp.Infrastructure.dll
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\bin\Debug\net6.0\StockTradeApp.Infrastructure.pdb
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\bin\Debug\net6.0\StockTradeApp.Core.dll
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\bin\Debug\net6.0\StockTradeApp.Core.pdb
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\StockTradeApp.Infrastructure.csproj.CopyComplete
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\StockTradeApp.Infrastructure.dll
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\refint\StockTradeApp.Infrastructure.dll
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\StockTradeApp.Infrastructure.pdb
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Infrastructure\obj\Debug\net6.0\ref\StockTradeApp.Infrastructure.dll

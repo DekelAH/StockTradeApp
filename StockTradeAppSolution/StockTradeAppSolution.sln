@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTradeApp.UI", "StockTradeApp.UI\StockTradeApp.UI.csproj", "{3F65CEAE-2652-47DB-A951-FA4F91665690}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CA09E495-39BE-422E-919A-5CB199915162}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EBB888C3-2DD0-417C-96A5-A68F20F31FDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTradeApp.Core", "StockTradeApp.Core\StockTradeApp.Core.csproj", "{55E002E7-9894-470B-9FBF-9C719A849697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTradeApp.Infrastructure", "StockTradeApp.Infrastructure\StockTradeApp.Infrastructure.csproj", "{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F65CEAE-2652-47DB-A951-FA4F91665690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F65CEAE-2652-47DB-A951-FA4F91665690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F65CEAE-2652-47DB-A951-FA4F91665690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F65CEAE-2652-47DB-A951-FA4F91665690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E002E7-9894-470B-9FBF-9C719A849697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E002E7-9894-470B-9FBF-9C719A849697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E002E7-9894-470B-9FBF-9C719A849697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E002E7-9894-470B-9FBF-9C719A849697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3F65CEAE-2652-47DB-A951-FA4F91665690} = {CA09E495-39BE-422E-919A-5CB199915162}
+		{55E002E7-9894-470B-9FBF-9C719A849697} = {CA09E495-39BE-422E-919A-5CB199915162}
+		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04} = {CA09E495-39BE-422E-919A-5CB199915162}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD74A757-9CF9-4C34-BDCA-539E6FED85CF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\StockTradeApp.Core.csproj.AssemblyReference.cache
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\StockTradeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\StockTradeApp.Core.AssemblyInfoInputs.cache
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\StockTradeApp.Core.AssemblyInfo.cs
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\StockTradeApp.Core.csproj.CoreCompileInputs.cache
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\bin\Debug\net6.0\StockTradeApp.Core.deps.json
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\bin\Debug\net6.0\StockTradeApp.Core.dll
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\bin\Debug\net6.0\StockTradeApp.Core.pdb
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\StockTradeApp.Core.dll
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\refint\StockTradeApp.Core.dll
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\StockTradeApp.Core.pdb
+D:\Programming\Github Projects\StockTradeApp\StockTradeAppSolution\StockTradeApp.Core\obj\Debug\net6.0\ref\StockTradeApp.Core.dll
