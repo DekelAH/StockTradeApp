@@ -3,15 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTradeApp.UI", "StockTradeApp.UI\StockTradeApp.UI.csproj", "{3F65CEAE-2652-47DB-A951-FA4F91665690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTradeApp.UI", "StockTradeApp.UI\StockTradeApp.UI.csproj", "{3F65CEAE-2652-47DB-A951-FA4F91665690}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CA09E495-39BE-422E-919A-5CB199915162}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{EBB888C3-2DD0-417C-96A5-A68F20F31FDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTradeApp.Core", "StockTradeApp.Core\StockTradeApp.Core.csproj", "{55E002E7-9894-470B-9FBF-9C719A849697}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTradeApp.Core", "StockTradeApp.Core\StockTradeApp.Core.csproj", "{55E002E7-9894-470B-9FBF-9C719A849697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockTradeApp.Infrastructure", "StockTradeApp.Infrastructure\StockTradeApp.Infrastructure.csproj", "{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockTradeApp.Infrastructure", "StockTradeApp.Infrastructure\StockTradeApp.Infrastructure.csproj", "{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StocksControllersTest", "StocksControllersTest\StocksControllersTest.csproj", "{C69E4E97-5EA0-4966-BDF4-17E5DADAA304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StocksServiceTests", "StocksServiceTests\StocksServiceTests.csproj", "{1E1A3FC1-9277-4107-981F-1C4E0DD1FB86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TradeControllerIntegrationTests", "TradeControllerIntegrationTests\TradeControllerIntegrationTests.csproj", "{8C224109-3D4B-408F-B8DB-A82396C89F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +37,18 @@ Global
 		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C69E4E97-5EA0-4966-BDF4-17E5DADAA304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69E4E97-5EA0-4966-BDF4-17E5DADAA304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69E4E97-5EA0-4966-BDF4-17E5DADAA304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69E4E97-5EA0-4966-BDF4-17E5DADAA304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E1A3FC1-9277-4107-981F-1C4E0DD1FB86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E1A3FC1-9277-4107-981F-1C4E0DD1FB86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E1A3FC1-9277-4107-981F-1C4E0DD1FB86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E1A3FC1-9277-4107-981F-1C4E0DD1FB86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C224109-3D4B-408F-B8DB-A82396C89F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C224109-3D4B-408F-B8DB-A82396C89F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C224109-3D4B-408F-B8DB-A82396C89F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C224109-3D4B-408F-B8DB-A82396C89F8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +57,9 @@ Global
 		{3F65CEAE-2652-47DB-A951-FA4F91665690} = {CA09E495-39BE-422E-919A-5CB199915162}
 		{55E002E7-9894-470B-9FBF-9C719A849697} = {CA09E495-39BE-422E-919A-5CB199915162}
 		{CDF3029E-C7B3-4BAB-8041-FB34924E8A04} = {CA09E495-39BE-422E-919A-5CB199915162}
+		{C69E4E97-5EA0-4966-BDF4-17E5DADAA304} = {EBB888C3-2DD0-417C-96A5-A68F20F31FDA}
+		{1E1A3FC1-9277-4107-981F-1C4E0DD1FB86} = {EBB888C3-2DD0-417C-96A5-A68F20F31FDA}
+		{8C224109-3D4B-408F-B8DB-A82396C89F8F} = {EBB888C3-2DD0-417C-96A5-A68F20F31FDA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CD74A757-9CF9-4C34-BDCA-539E6FED85CF}
